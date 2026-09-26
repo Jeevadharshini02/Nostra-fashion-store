@@ -34,7 +34,6 @@ search.addEventListener("keyup", function (event) {
 
         localStorage.setItem("cart",JSON.stringify(cart));
 
-        // window.location.href = "cart.html";
 
     })
  })
